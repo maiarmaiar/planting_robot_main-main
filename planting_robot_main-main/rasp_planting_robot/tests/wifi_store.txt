@@ -1,0 +1,10 @@
+//ubuntu operating system
+Ctrl+Alt+T
+sudo nano /etc/netplan/50-cloud-init.yaml
+//modify the network
+
+Ctrl+X
+y
+sudo reboot
+
+

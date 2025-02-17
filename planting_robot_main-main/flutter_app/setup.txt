@@ -1,0 +1,31 @@
+
+//flutter clean
+flutter clean
+
+//flutter pub get
+flutter pub get
+
+//flutter run default
+flutter run
+
+//flutter run web chrome
+#flutter run -d chrome
+flutter run -d chrome --web-renderer html
+
+
+//flutter build web firebase
+flutter build web
+firebase logout
+firebase login
+firebase init hosting
+firebase deploy
+#seee video
+https://www.youtube.com/watch?v=lcc7eKcQVWQ
+
+
+//create project 
+flutter create project
+
+
+
+
